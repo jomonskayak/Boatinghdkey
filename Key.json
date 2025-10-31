@@ -3,7 +3,7 @@
     "id": "840ec2577943e2de",
     "username": "jomons",
     "password": "jomons12",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
@@ -126,4 +126,5 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
+  
 ]
