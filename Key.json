@@ -1,15 +1,15 @@
 [
   {
     "id": "840ec2577943e2de",
-    "username": "jomons",
+    "username": "jomons12",
     "password": "jomons12",
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
-    "id": "840ec2577943e2de",
-    "username": "840ec2577943e2de",
-    "password": "840ec2577943e2de",
+    "id": "",
+    "username": "",
+    "password": "",
     "expiresAt": "2026-11-30",
     "allowOffline": true
   }
